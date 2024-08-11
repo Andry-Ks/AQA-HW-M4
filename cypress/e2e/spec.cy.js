@@ -1,6 +1,6 @@
 "use strict";
-const apiKey = 'cb7c83c50734e4a274deb707b19eb1a0';
-const apiToken = 'ATTAa99b46e6cea8027ecc5b9fccda1ee1383bad406da849a9f0de9a1f1f3cd87b191556138F';
+const apiKey = 'key';
+const apiToken = 'token';
 
 describe('Trello API Tests', () => {
       it('Отримати список дошок за допомогою GET запиту', () => {
